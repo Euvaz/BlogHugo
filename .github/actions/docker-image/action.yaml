@@ -4,7 +4,7 @@ description: Creates a Docker image
 
 inputs:
   token:
-    description: Github token
+    description: GitHub token
     required: true
   push:
     description: Push Images to GHCR
