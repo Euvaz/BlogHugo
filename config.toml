@@ -7,7 +7,6 @@ theme = 'Steak'
   favicon = "/favicon.svg"
   stylesheet = "/style.css"
   indexarticles = 50
-  taglist = true
 
 [markup]
   [markup.goldmark]
