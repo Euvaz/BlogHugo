@@ -1,0 +1,15 @@
+baseURL = 'http://127.0.0.1:8080/'
+languageCode = 'en-us'
+title = 'Self-Host Blog'
+theme = 'steak'
+
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
+  indexarticles = 50
+  taglist = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
