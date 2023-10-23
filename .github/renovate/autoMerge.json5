@@ -4,10 +4,9 @@
       "description": "Auto Merge GitHub Actions",
       "matchManagers": ["github-actions"],
       "automerge": true,
-      "requiredStatusChecks": null,
       "ignoreTests": true,
       "automergeType": "branch",
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": ["minor", "patch", "digest"],
     }
   ]
 }
