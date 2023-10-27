@@ -2,7 +2,7 @@
 
 ![GitHub Workflow Status](https://github.com/euvaz/bloghugo/actions/workflows/on-merge.yaml/badge.svg)
 ![Hugo Version](https://img.shields.io/badge/Hugo-v0.101.0-ee1289)
-![Nginx Version](https://img.shields.io/badge/Nginx-1.25.2-228b22)
+![Nginx Version](https://img.shields.io/badge/Nginx-1.25.3-228b22)
 
 BlogHugo is my automated blog website powered by [Hugo](https://gohugo.io/), a popular static site generator. This repository provides a robust setup for building and deploying a Hugo-based blog using GitHub Actions and a custom Dockerfile, thereby utilizing [GitOps](https://www.weave.works/blog/what-is-gitops-really) methodologies. It streamlines the process of managing my blog, automating the build and test process, and ensuring my content stays up-to-date.
 
