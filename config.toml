@@ -1,4 +1,4 @@
-baseURL = 'https://blog.scialytic.services/'
+baseURL = 'https://blog.virgil.rodeo/'
 languageCode = 'en-us'
 title = 'Self-Host Blog'
 theme = 'Steak'
