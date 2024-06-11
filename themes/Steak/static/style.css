@@ -32,6 +32,12 @@ footer {
 	clear: both ;
 }
 
+pre {
+    padding-top: 0.75rem ;
+    padding-bottom: 0.75rem ;
+    overflow-x: auto ;
+}
+
 /* For NEXTPREV.HTML */
 #nextprev {
 	/* The container for both the previous and next articles. */
