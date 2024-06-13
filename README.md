@@ -30,7 +30,7 @@ hugo server
 A Dockerfile is provided for convenience, and can be easily built and deployed:
 
 ```
-docker build -t bloghugo .
+docker buildx build --platform linux/amd64 -t bloghugo .
 docker run -p 8080:80 bloghugo:latest
 ```
 
