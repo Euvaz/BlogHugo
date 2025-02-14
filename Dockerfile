@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 # Building binary
-FROM alpine:3.20.0 AS build-stage
+FROM alpine:3.21.3 AS build-stage
 LABEL \
     org.opencontainers.image.title="BlogHugo" \
     org.opencontainers.image.source="https://github.com/Euvaz/BlogHugo"
